@@ -34,6 +34,6 @@ The performance of each model was evaluated using a variety of metrics, includin
 
 ## Conclusion
 
-In this project, we successfully developed models to predict the gender of authors based on text data. Through data preprocessing, feature extraction, and model training, we explored the effectiveness of MultinomialNB, DecisionTreeClassifier, KNeighborsClassifier, and LinearSVC models. The project provided valuable insights into the application of machine learning techniques to text classification tasks.
+In this project, I successfully developed models to predict the gender of authors based on text data. Through data preprocessing, feature extraction, and model training, I explored the effectiveness of MultinomialNB, DecisionTreeClassifier, KNeighborsClassifier, and LinearSVC models. The project provided valuable insights into the application of machine learning techniques to text classification tasks.
 
 Feel free to explore the code and the accompanying documentation to gain a deeper understanding of the steps and processes involved in this project.
